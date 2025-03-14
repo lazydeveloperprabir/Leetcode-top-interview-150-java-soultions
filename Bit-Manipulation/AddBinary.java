@@ -35,3 +35,6 @@ Each string does not contain leading zeros except for the zero itself.
         }
     }
 }
+
+  git config --global user.email "lazydeveloperprabir@gmail.com"
+  git config --global user.name "lazydeveloperprabir"
